@@ -33,7 +33,7 @@ Tadbeera is a product I designed and built on my own. You record what you buy by
 - **Voice and text entry.** Say "a kilo of tomatoes for 20 and eggs for 95" and it becomes separate items with prices and quantities.
 - **Shopping list.** Plan before you go out, tick items off and add prices at the till.
 - **Kitchen and household stock.** Updated from purchases, with low-stock alerts and a review step before deducting what you cooked.
-- **147 recipes.** Egyptian, Levantine and Gulf dishes sorted by what you have, with servings scaling and filters.
+- **159 recipes.** Egyptian, Levantine, Gulf and Maghrebi dishes sorted by what you have, with servings scaling and filters.
 - **Spending.** Daily average, categories, a monthly recap and the share of your salary spent.
 - **Bills.** Due dates, payments and local reminders.
 - **Currencies.** Pounds, riyals, dirhams, dinars, dollars, euros and more.
